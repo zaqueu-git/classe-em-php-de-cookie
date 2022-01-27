@@ -1,7 +1,7 @@
 <?php
 namespace application\libraries\Cookies;
 
-class Cookies 
+class Cookie
 {
     /**
      * path
